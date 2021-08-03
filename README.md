@@ -1,5 +1,7 @@
 # TSP_BnB_Algo
-The travelling salesman problem (also called TSP) asks the following question: “Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city exactly once and returns to the origin city?”. This is what my algorithm tries to achieve using Branch and Bound.
+The travelling salesman problem (also called TSP) asks the following question: “Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city exactly once and returns to the origin city?”. 
+
+This is what my algorithm tries to achieve using Branch and Bound. The program is done in C language, hence why it is advisable to use the program on an terminal (linux/unix systems), for best results. VS code could work too
 
 # How To Run TSP Algorithm in terminal
 
@@ -19,6 +21,7 @@ Test Cases
 * - Test Case 4 (n = 17): input3.txt                                        *
 * - Test Case 5 (n = 20): test.txt (Pruned nodes)                           *
 * - Test Case 6 (n = 20): test1.txt                                         *
+* 
 *---------------------------------------------------------------------------*
 
 Enter the text file name you want to test
